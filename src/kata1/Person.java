@@ -3,7 +3,8 @@
 package kata1;
 
 
-import java.time.*;
+import java.time.LocalDate;
+import java.time.Period;
 
 public class Person {
     private final String name;

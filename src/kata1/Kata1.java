@@ -1,6 +1,6 @@
 package kata1;
 
-import java.time.*;
+import java.time.LocalDate;
 
 
 public class Kata1 {
